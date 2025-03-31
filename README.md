@@ -1,0 +1,3 @@
+## Time Series Models: A Comparative Analysis of Time Series Transformer and LSTM ##
+I conducted a comparative analysis of stock price prediction using two time series models: the Time Series Transformer from Hugging Face and a Long Short-Term Memory (LSTM) network as a baseline. Both models were employed to forecast future stock prices based on historical data. The models were evaluated using the Symmetric Mean Absolute Percentage Error (sMAPE) metric across four financial indicators: high, low, close, and volume prices. The results demonstrate 
+that the Time Series Transformer outperforms the baseline LSTM model in all evaluated metrics. 
